@@ -1,0 +1,32 @@
+<div contentEditable="true" style="display: inline-block">
+    <svg xmlns="http://www.w3.org/2000/svg" width="47mm" height="35mm" viewBox="0 0 156.12742 116.26493">
+        <path d="M.76.76h154.608v114.745H.76z" fill="none" stroke="#000" stroke-width="1"/>
+        <text style="width: 47mm;text-align:center;font:10px sans-serif" x="5mm"
+              y="12">
+            ООО &quot;Компания &quot;Чайкоф&quot;
+        </text>
+        <text style="line-height:125%;-inkscape-font-specification:'sans-serif Bold';text-align:center" x="79.037"
+              y="26.999" font-weight="700" font-size="11.25" font-family="sans-serif"
+              text-anchor="middle">
+            <tspan x="79.037" y="26.999" style="-inkscape-font-specification:'sans-serif Bold'">{ name }</tspan>
+        </text>
+        <text style="line-height:125%" x="61.294" y="46.194" font-weight="400" font-size="11.25" letter-spacing="0"
+              word-spacing="0" font-family="sans-serif">
+            <tspan x="61.294" y="46.194">China</tspan>
+        </text>
+        <text style="line-height:125%" x="176.745" y="81.309" font-weight="400" font-size="11.25" letter-spacing="0"
+              word-spacing="0" font-family="sans-serif">
+            <tspan x="87.315" y="81.309" font-size="40" style="text-align:center" text-anchor="middle">{ price }
+                <tspan style="text-align:center" font-size="14.063">p</tspan>
+            </tspan>
+        </text>
+        <text style="line-height:125%" x="2.5" y="112.265" font-weight="400" font-size="11.25" letter-spacing="0"
+              word-spacing="0" font-family="sans-serif">
+            <tspan x="2.5" y="112.265">HXR</tspan>
+        </text>
+        <text style="line-height:125%" x="59.715" y="110.676" font-weight="400" font-size="11.25" letter-spacing="0"
+              word-spacing="0" font-family="sans-serif">
+            <tspan x="59.715" y="110.676">{ id }</tspan>
+        </text>
+    </svg>
+</div>
